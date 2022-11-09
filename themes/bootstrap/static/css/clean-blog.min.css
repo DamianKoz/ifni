@@ -302,8 +302,8 @@ hr.small {
 footer {
   margin-top: 30px;
   padding: 20px 0 35px;
-  background: #4b56a8;
-  color: #ffffff;
+  background: var(--main-background-color);
+  color: var(--second-text-color);
 }
 
 footer .list-inline {
@@ -312,20 +312,20 @@ footer .list-inline {
 }
 
 footer .copyright {
-  color: #ffffff;
+  color: var(--second-text-color);
   font-size: 14px;
   text-align: center;
   margin-bottom: 0;
 }
 
 footer .copyright a {
-  color: #fff;
+  color: var(--second-text-color);
   border: 0;
   text-transform: uppercase;
 }
 
 footer .copyright a:hover {
-  color: #fff;
+  color: var(--a-hover-color);
 }
 
 .floating-label-form-group {
@@ -402,8 +402,8 @@ form .row:first-child .floating-label-form-group {
 
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: var(--a-hover-color);
+  border: 1px solid var(--a-hover-color);
   color: #fff;
 }
 
