@@ -2,4 +2,3 @@ baseURL = 'https://ifni.netlify.app/'
 languageCode = 'en-us'
 title = 'Informatik für Nicht-Informatiker'
 theme = "bootstrap"
-description=
