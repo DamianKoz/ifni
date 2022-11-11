@@ -6,23 +6,14 @@
     <description>Recent content in Posts on Informatik für Nicht-Informatiker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Nov 2022 08:17:54 +0100</lastBuildDate><atom:link href="https://ifni.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Nov 2022 08:16:27 +0100</lastBuildDate><atom:link href="https://ifni.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://ifni.netlify.app/posts/test/</link>
-      <pubDate>Wed, 09 Nov 2022 08:17:54 +0100</pubDate>
-      
-      <guid>https://ifni.netlify.app/posts/test/</guid>
-      <description>This is a test article</description>
-    </item>
-    
-    <item>
-      <title>Frontend_backend</title>
-      <link>https://ifni.netlify.app/posts/webdev/frontend_backend/</link>
+      <title>Frontend &amp; backend</title>
+      <link>https://ifni.netlify.app/frontend-backend/</link>
       <pubDate>Wed, 09 Nov 2022 08:16:27 +0100</pubDate>
       
-      <guid>https://ifni.netlify.app/posts/webdev/frontend_backend/</guid>
-      <description></description>
+      <guid>https://ifni.netlify.app/frontend-backend/</guid>
+      <description>In diesem Artikel geht es um die Begriffe Frontend und Backend um zu zeigen, wie moderne Webseiten aufgebaut sind</description>
     </item>
     
   </channel>
