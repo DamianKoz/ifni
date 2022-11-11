@@ -2,19 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ifni.netlify.app/</loc>
-    <lastmod>2022-11-09T08:17:54+01:00</lastmod>
-  </url><url>
-    <loc>https://ifni.netlify.app/posts/</loc>
-    <lastmod>2022-11-09T08:17:54+01:00</lastmod>
-  </url><url>
-    <loc>https://ifni.netlify.app/posts/test/</loc>
-    <lastmod>2022-11-09T08:17:54+01:00</lastmod>
-  </url><url>
-    <loc>https://ifni.netlify.app/posts/webdev/frontend_backend/</loc>
-    <lastmod>2022-11-09T08:16:27+01:00</lastmod>
-  </url><url>
     <loc>https://ifni.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://ifni.netlify.app/</loc>
   </url><url>
     <loc>https://ifni.netlify.app/tags/</loc>
   </url>
